@@ -1,0 +1,25 @@
+For Three different queries, Page 'Log Analysis' displays three different buttons.
+
+Clicking on button "Get 3 Popular Articles" gives result ...
+Candidate is jerk, alleges rival
+338647
+Bears love berries, alleges bear
+253801
+Bad things gone, say good people
+170098
+
+Clicking on button "Get Popular Authors" gives result ...
+Ursula La Multa
+507594
+Rudolf von Treppenwitz
+423457
+Anonymous Contributor
+170098
+Markoff Chaney
+84557
+
+and finally Clicking on button "Get Error Days" gives result ...
+2016-07-17
+2.26
+
+
